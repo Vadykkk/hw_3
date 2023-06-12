@@ -1,0 +1,15 @@
+D:\homework_3\hw_3\bin\Debug\net7.0\hw_3.exe
+D:\homework_3\hw_3\bin\Debug\net7.0\hw_3.deps.json
+D:\homework_3\hw_3\bin\Debug\net7.0\hw_3.runtimeconfig.json
+D:\homework_3\hw_3\bin\Debug\net7.0\hw_3.dll
+D:\homework_3\hw_3\bin\Debug\net7.0\hw_3.pdb
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.csproj.AssemblyReference.cache
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.AssemblyInfoInputs.cache
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.AssemblyInfo.cs
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.csproj.CoreCompileInputs.cache
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.dll
+D:\homework_3\hw_3\obj\Debug\net7.0\refint\hw_3.dll
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.pdb
+D:\homework_3\hw_3\obj\Debug\net7.0\hw_3.genruntimeconfig.cache
+D:\homework_3\hw_3\obj\Debug\net7.0\ref\hw_3.dll
